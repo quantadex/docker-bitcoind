@@ -19,6 +19,11 @@ Requirements
 Recommended and tested on unadvertised (only shown within control panel) [Vultr SATA Storage 1024 MB RAM/250 GB disk instance @ $10/mo](http://bit.ly/vultrbitcoind).  Vultr also *accepts Bitcoin payments*!
 
 
+Quanta Build Docker
+-------------------
+
+    ./build-docker.sh
+
 Really Fast Quick Start
 -----------------------
 
